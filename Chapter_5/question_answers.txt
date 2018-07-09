@@ -1,0 +1,13 @@
+    +-----------------------------------+
+    o/                                 \o
+    | { ANSWERS TO EXERCISE QUESTIONS } |
+    0\                                 /0
+    +-----------------------------------+
+
+5-2: The data appears at the end of file even though lseek set the offset to the beginning
+     this is because the O_APPEND flag always seeks to the end of the file before each write
+     as defined in the man page for open.
+
+5-3: 
+
+
