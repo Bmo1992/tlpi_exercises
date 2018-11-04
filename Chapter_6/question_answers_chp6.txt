@@ -1,0 +1,9 @@
+    +------------------------------------+
+    o/                                  \o
+    | { ANSWERS TO CHAPTER 6 QUESTIONS } |
+    0\                                  /0
+    +------------------------------------+
+
+6-1
+    The output of ls shows the size of the binary as it's stored on the disk or permanent storage. This is
+    unrelated to the RAM that's allocated when the program runs. 
